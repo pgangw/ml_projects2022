@@ -29,7 +29,7 @@ The file 01combining.py combines the two datasets on awrtists and artworks, to e
 ageoftheartists.py explores the age and gender of all the artists. Majortiy of the artists fall in the age group of 75 - 85 years. Further, works of more male artists (roughly 10,000) than female (roughly 2,100) have been listed on MOMA.
 ![2 - gender](https://user-images.githubusercontent.com/102167360/192128426-6e705cc9-7875-4f75-92f0-fc1e6ec7d05d.png)
 
-### STEP 3: What is the highest and lowest ages of the artists? How many artists lived for under 5 years and over 100 years?
+### STEP 3: What are the highest and lowest ages of the artists? How many artists lived for under 5 years and over 100 years?
 
 03oldestyoungest.py finds that roughly 7 artists listed on MOMA have lived for under 5 years. Whereas around 50 artists have been documented to have lived for over 100 years. This data highlights age anomalies in the dataset. 
 ![3 - min and max age](https://user-images.githubusercontent.com/102167360/192128429-5e31516c-1a6d-4981-aba4-b1c988245c1a.png)
