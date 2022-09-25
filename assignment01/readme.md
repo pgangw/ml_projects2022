@@ -39,7 +39,7 @@ Further investigation of the dataset shows that roughly 200 artworks might have 
 
 ### STEP 4: Who created the most number of artworks and what are the dimensions of the same?
 
-04maxartworks.py finds that Marc Chagall has the most number of artworks listed on MOMA. His logest artworks measures roughly 100cm and widest 69cm. His smallest artwork measures approximately 5x5cm.
+04maxartworks.py finds that Marc Chagall has the most number of artworks listed on MOMA. His longest artworks measures roughly 100cm and widest 69cm. His smallest artwork measures approximately 5x5cm.
 ![4 - dimensions of the artworks](https://user-images.githubusercontent.com/102167360/192128442-f1c1a94f-1e75-4f11-968a-56ab7a254871.png)
 
 ### STEP 5: Which materials have been used in the longest artworks?
