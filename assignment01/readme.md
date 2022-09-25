@@ -50,4 +50,4 @@ Further investigation of the dataset shows that roughly 200 artworks might have 
 ### STEP 6: Which are the biggest artworks and who created them - men or women?
 
 05material.py discovers the top 50 biggest artworks. It can be noted that the biggest artwork "Bus" was created by a female (almost 3,50,000 cm sq). A good mix of men and women have created some of the biggest artworks at MOMA. 
-![6 - biggest area by gender](https://user-images.githubusercontent.com/102167360/192128462-c2819539-41a6-49e0-865c-fd377eb8f1cc.png)
+![6 - biggest artworks](https://user-images.githubusercontent.com/102167360/192128593-b94f523b-dfe4-424f-8a56-d47a9c53c90e.png)
