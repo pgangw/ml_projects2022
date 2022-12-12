@@ -23,7 +23,7 @@ Visitor-wise data for 6 months (1 August 2016 through 31 January 2017) is collec
 - **Output files:** This folder has all the files exported from the code notebook. All files except d3final.csv have been uploaded here. The file d3final is not uploaded because it is a huge file with 2382169 rows. The final file used for the code has 4,90,996 rows and 12 columns. The file, d4check.csv gives a glimpse of the file used.
 - **Project proposal:** This folder has the project proposal in pdf format.
 
-## Steps 
+## Steps in the notebook
 
 Overview of the steps followed in the notebook:
 
